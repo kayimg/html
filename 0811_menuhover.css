@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* tag reset */
+body,ul{margin:0px; padding:0px;}
+ul{list-style:none;}
+a{text-decoration:none; color:inherit;}
+
+#gnb ul{float:left; font-size:25px; font-weight: bold; 
+        background-color:#ffff00;}
+#gnb ul li{float:left;}
+#gnb ul li a{display:block;padding: 20px 30px;
+             border-top: 5px solid#FF0000;
+             border-bottom: 1px solid #000000;}
+#gnb ul li a:hover{color:#3d3d3d;border-top:5px solid#0000FF;
+                    background-color:#ffc0cb;}
+
+}
